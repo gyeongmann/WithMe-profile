@@ -85,15 +85,15 @@
 
 ## 🧱 아키텍쳐
 
-![image8](https://github.com/user-attachments/assets/a8a9f57c-d756-4d63-9818-89160ab8dd77)
+![아키텍처](https://github.com/user-attachments/assets/c6afd827-4dc9-4c93-a96c-878c38aef708)
 
 ## 🧑‍🤝‍🧑 팀 소개
 
 - **FE**
-  - **홍범선**: 지도 검색, 혜택 검색 - [hyeonzi423](http://github.com/hyeonzi423)
-  - **이재영**: 로그인, 회원가입, 메인, 카드 추천 - [gyeongmann](http://github.com/gyeongmann)
-  - **현경찬**: 알림함, 마이페이지 - [201820722](http://github.com/201820722)
+  - **홍범선**: 
+  - **이재영**: 
+  - **현경찬**: 
 - **BE**
-  - **신원철**: 카드 기능, 카드 추천 기능 - [Limgayoung](http://github.com/Limgayoung)
-  - **황태건**: 가맹점, 지도 조회 - [qkrtjdwo5662](http://github.com/qkrtjdwo5662)
-  - **이동규**: 로그인, 회원가입, 알림 - [chanhyun22](http://github.com/chanhyun22)
+  - **신원철**: 
+  - **황태건**: 
+  - **이동규**: 
