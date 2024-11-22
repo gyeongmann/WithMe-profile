@@ -46,7 +46,7 @@
   
   | **Login**                                                                                            | **Git Commit**                                                                                   |
   | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-  | <img src="https://github.com/user-attachments/assets/e11a3dc6-725e-4e35-a488-7dad5b8251a9" width="50%"/> | <img src="https://github.com/user-attachments/assets/842c064c-8605-432b-b0ff-a4a3144fbab2" width="50%"/> |
+  | <img src="https://github.com/user-attachments/assets/e11a3dc6-725e-4e35-a488-7dad5b8251a9" width="100%"/> | <img src="https://github.com/user-attachments/assets/842c064c-8605-432b-b0ff-a4a3144fbab2" width="100%"/> |
   
 </div>
 
@@ -56,7 +56,7 @@
   
   | **Enter Edit**                                                                                        | **Change Menu**                                                                                   |
   | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-  | <img src="https://github.com/user-attachments/assets/fc1dc17f-758c-4c66-a085-2a35f1539e52" width="50%"/> | <img src="https://github.com/user-attachments/assets/d0271fa3-5e97-47ae-908b-11d509110c88" width="470"/> |
+  | <img src="https://github.com/user-attachments/assets/fc1dc17f-758c-4c66-a085-2a35f1539e52" width="100%"/> | <img src="https://github.com/user-attachments/assets/d0271fa3-5e97-47ae-908b-11d509110c88" width="100%"/> |
   
 </div>
 
@@ -66,7 +66,7 @@
   
   | **Search**                                                                                            | **SEO Optimization**                                                                              |
   | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-  | <img src="https://github.com/user-attachments/assets/df4f600d-ff7c-4e5b-ab7b-fbacc95f7295" width="50%"/> | <img src="https://github.com/user-attachments/assets/f095304e-192b-4430-a1d1-9fb0cb866a78" width="50%"/> |
+  | <img src="https://github.com/user-attachments/assets/df4f600d-ff7c-4e5b-ab7b-fbacc95f7295" width="100%"/> | <img src="https://github.com/user-attachments/assets/f095304e-192b-4430-a1d1-9fb0cb866a78" width="100%"/> |
   
 </div>
 
@@ -76,7 +76,7 @@
   
   | **About Us**                                                                                          | **Explore**                                                                                       |
   | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-  | <img src="https://github.com/user-attachments/assets/e3632497-7335-45bd-ae03-8d233af03ab2" width="50%"/> | <img src="https://github.com/user-attachments/assets/2114fd83-7839-4f5c-99fa-73fa700f40ff" width="50%"/> |
+  | <img src="https://github.com/user-attachments/assets/e3632497-7335-45bd-ae03-8d233af03ab2" width="100%"/> | <img src="https://github.com/user-attachments/assets/2114fd83-7839-4f5c-99fa-73fa700f40ff" width="50%"/> |
   
 </div>
 
