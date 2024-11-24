@@ -7,6 +7,9 @@
 [1. 프로젝트 소개](#️-프로젝트-소개) <br/>
 [2. 개발 기간](#️-개발-기간) <br/>
 [3. 개발 환경 및 기술 스택](#️-개발-환경-및-기술-스택) <br/>
+[4. 주요 기능](#️-주요-기능) <br/>
+[5. 아키텍쳐](#-아키텍쳐) <br/>
+[6. 팀원소개](#-팀원-소개) <br/>
 
 ## 🖥️ 프로젝트 소개
 
@@ -102,10 +105,10 @@
 ## 🧑‍🤝‍🧑 팀 소개
 
 - **FE**
-  - **홍범선**: 
-  - **이재영**: 
-  - **현경찬**: 
+  - **홍범선(팀장)**: Main, Explore, SEO - [qjatjs123123](https://github.com/qjatjs123123)
+  - **이재영**: Editor, Left bar, Preview, Markdown - [Jaeyoung9999](https://github.com/Jaeyoung9999)
+  - **현경찬**: Editor, AI(FE), Nav, About us - [gyeongmann](https://github.com/gyeongmann)
 - **BE**
-  - **신원철**: 
-  - **황태건**: 
-  - **이동규**: 
+  - **신원철**: AI(BE), Repository API - [wonchul98](https://github.com/wonchul98)
+  - **황태건**: OAuth-Login, Git API - [taegun1011](https://github.com/taegun1011)
+  - **이동규**: Directory 분석 - [DKL1231](https://github.com/DKL1231)
