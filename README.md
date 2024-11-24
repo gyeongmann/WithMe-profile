@@ -102,7 +102,7 @@
 
 ![아키텍처](https://github.com/user-attachments/assets/c6afd827-4dc9-4c93-a96c-878c38aef708)
 
-## 🧑‍🤝‍🧑 팀 소개
+## 🧑‍🤝‍🧑 팀원 소개
 
 - **FE**
   - **홍범선(팀장)**: Main, Explore, SEO - [qjatjs123123](https://github.com/qjatjs123123)
