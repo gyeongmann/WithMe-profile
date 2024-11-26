@@ -99,17 +99,19 @@
 </div>
 
 <br/>
+
 ## 🧱 아키텍쳐
 
 ![아키텍처](https://github.com/user-attachments/assets/c6afd827-4dc9-4c93-a96c-878c38aef708)
 <br/>
+
 ## 🧑‍🤝‍🧑 팀원 소개
 
 - **FE**
   - **홍범선(팀장)**: Main, Explore, SEO - [qjatjs123123](https://github.com/qjatjs123123)
-  - **이재영**: Editor, Left bar, Preview, Markdown - [Jaeyoung9999](https://github.com/Jaeyoung9999)
+  - **이재영**: Editor, Markdown, Git API(FE) - [Jaeyoung9999](https://github.com/Jaeyoung9999)
   - **현경찬**: Editor, AI(FE), Nav, About us - [gyeongmann](https://github.com/gyeongmann)
 - **BE**
   - **신원철**: AI(BE), Repository API - [wonchul98](https://github.com/wonchul98)
-  - **황태건**: OAuth-Login, Git API - [taegun1011](https://github.com/taegun1011)
-  - **이동규**: Directory 분석 - [DKL1231](https://github.com/DKL1231)
+  - **황태건**: OAuth-Login, Git API(BE) - [taegun1011](https://github.com/taegun1011)
+  - **이동규**: Directory 분석, Readme API - [DKL1231](https://github.com/DKL1231)
